@@ -14,6 +14,8 @@ navigate through three stages of an obstacle course in an autonomous drone race.
   ```
 - In the `Code` folder we have the corresponding model weights for phase 1 and phase 2 in `YOLO Model` folder and `RAFT` folders.
 
+## Report
+For detailed description see the report [here](Report.pdf).
 
 ## Collaborators
 Chaitanya Sriram Gaddipati - cgaddipati@wpi.edu
