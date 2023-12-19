@@ -17,6 +17,9 @@ navigate through three stages of an obstacle course in an autonomous drone race.
 ## Report
 For detailed description see the report [here](Report.pdf).
 
+## Runs
+Link to a [demo run](https://www.youtube.com/watch?v=SM0DnuyqlWE) for a random configuration of windows. Link to the [run](https://youtu.be/eMaC_LoxNN4) on the final race day.
+
 ## Collaborators
 Chaitanya Sriram Gaddipati - cgaddipati@wpi.edu
 
